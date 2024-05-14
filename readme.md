@@ -27,7 +27,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 
 ## Presentation
 
-- **Date and Time**: Present your project on Monday, May 20th at 12:30 PM. Make sure your presentation captures the essence and impact of your solution effectively.
+- **Date and Time**: Each team will give a 5 minute on Monday, May 20th. Make sure your presentation captures the essence and impact of your solution effectively.
 
 ## Get Started
 
