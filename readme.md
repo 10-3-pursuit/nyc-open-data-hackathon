@@ -15,7 +15,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 ## Requirements
 
 - **Use of [NYC Open Data API](https://opendata.cityofnewyork.us/)**: Your project must integrate the [NYC Open Data API](https://opendata.cityofnewyork.us/). Creativity in how you use this API is highly encouraged.
-- **Additional APIs**: You are welcome to use other APIs to create mashups or enhance your application's functionality.
+- **Additional APIs**: You are welcome to use other APIs to create mashups or enhance your application's functionality. Oftentimes mashups look at overlapping data from multiple APIs to pull out new relationships. Valuable mashups can be as simple as using a site’s API and redesigning the interface through which users view the data.
 - **Submission**: Provide a public URL to your code repository in your readme.md. Include instructions on what your app does, the problems it solves, and how to run it. Submit your link to the event panel (instructors).
 
 ## Prizes
@@ -37,13 +37,10 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 ## Resources
 
 - **Hackathon Tips**: Gain insights from [Nathan, a 22-time hackathon winner](https://docs.google.com/document/d/1Qax3FU0l-lG13g6_-8wYeM2Y1qD7iI2AQeSz_NtCcBE/edit?usp=sharing).
-- **Inspiration from Past Events**: Check out projects from former NY Times hackathons and learn from successful API implementations. [2014 Hack Day](https://open.nytimes.com/timesopen-hack-day-2014-7ee3cb8f7e45), [2013 Hack Day](https://open.nytimes.com/timesopen-hack-day-2013-b185d6a099f3), and more.
-
-## Mashup Inspiration
-
-- **Trendsmap**: Combines trending Twitter hashtags with geospatial data to map trending tweets.
-- **Poligraft**: Analyzes political figures mentioned in your text to provide backstory and connections.
-- **Spell With Flickr**: Creates visual representations of words using Flickr images.
-- **Housing Maps**: Integrates Craigslist and Google Maps to show rental and sale properties on an interactive map.
+- **Inspiration from Past Events**: Check out projects from former NY Times hackathons and learn from successful API implementations.
+  - [2014 Hack Day](https://open.nytimes.com/timesopen-hack-day-2014-7ee3cb8f7e45)
+  - [2013 Hack Day](https://open.nytimes.com/timesopen-hack-day-2013-b185d6a099f3)
+  - [The Best of Newsgaming at the Editors’ Lab](https://open.nytimes.com/the-best-of-newsgaming-at-the-editors-lab-cc024ca5edd9)
+  - [Schooled by Times APIs: Student Projects](https://open.nytimes.com/schooled-by-times-apis-student-projects-14fb76830d20)
 
 Prepare to dive deep, innovate, and maybe even kickstart your next big venture at this thrilling hackathon!
