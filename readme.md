@@ -1,5 +1,6 @@
 # NYC Open Data API Hackathon Instructions
 
+<img src='./nyc.jpg' height="500" width="500">
 ## Introduction
 
 Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon! This event challenges you to unleash your creativity and technical skills to innovate solutions using the [NYC Open Data API](https://opendata.cityofnewyork.us/). Whether you're building a web app, mobile app, tool, or any other digital creation, your project should aim to solve real-world problems and have the potential to scale into a viable product or service.
