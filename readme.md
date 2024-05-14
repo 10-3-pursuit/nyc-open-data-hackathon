@@ -1,4 +1,4 @@
-# NYC Open Data API Hackathon Instructions
+# NYC Open Data API Hackathon
 
 <img src='./nyc.jpg' height="700" width="700">
 ## Introduction
