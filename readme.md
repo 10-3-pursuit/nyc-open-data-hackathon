@@ -16,7 +16,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 
 - **Use of [NYC Open Data API](https://opendata.cityofnewyork.us/)**: Your project must integrate the [NYC Open Data API](https://opendata.cityofnewyork.us/). Creativity in how you use this API is highly encouraged.
 - **Additional APIs**: You are welcome to use other APIs to create mashups or enhance your application's functionality.
-- **Submission**: Provide a public URL to your code repository. Include instructions on what your app does, the problems it solves, and how to run it.
+- **Submission**: Provide a public URL to your code repository in your readme.md. Include instructions on what your app does, the problems it solves, and how to run it. Submit your link to the event panel (instructors)
 
 ## Judging Criteria
 
