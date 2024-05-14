@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the NYC Open Data API Hackathon! This event challenges you to unleash your creativity and technical skills to innovate solutions using the NYC Open Data API. Whether you're building a web app, mobile app, tool, or any other digital creation, your project should aim to solve real-world problems and have the potential to scale into a viable product or service.
+Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon! This event challenges you to unleash your creativity and technical skills to innovate solutions using the [NYC Open Data API](https://opendata.cityofnewyork.us/). Whether you're building a web app, mobile app, tool, or any other digital creation, your project should aim to solve real-world problems and have the potential to scale into a viable product or service.
 
 ## Get Started
 
@@ -14,7 +14,7 @@ Welcome to the NYC Open Data API Hackathon! This event challenges you to unleash
 
 ## Requirements
 
-- **Use of NYC Open Data API**: Your project must integrate the NYC Open Data API. Creativity in how you use this API is highly encouraged.
+- **Use of [NYC Open Data API](https://opendata.cityofnewyork.us/)**: Your project must integrate the [NYC Open Data API](https://opendata.cityofnewyork.us/). Creativity in how you use this API is highly encouraged.
 - **Additional APIs**: You are welcome to use other APIs to create mashups or enhance your application's functionality.
 - **Submission**: Provide a public URL to your code repository. Include instructions on what your app does, the problems it solves, and how to run it.
 
@@ -24,7 +24,7 @@ Welcome to the NYC Open Data API Hackathon! This event challenges you to unleash
 2. **Concept**: Does the solution address a real and significant problem?
 3. **Feasibility**: Could this project evolve into a startup or company?
 4. **Presentation**: Quality of the presentation deck and effectiveness in communicating your concept.
-5. **Innovative Use of API**: How creatively and effectively the solution uses the NYC Open Data API.
+5. **Innovative Use of API**: How creatively and effectively the solution uses the [NYC Open Data API](https://opendata.cityofnewyork.us/).
 
 ## Prizes
 
