@@ -6,7 +6,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 
 ## Get Started
 
-- **Starter Kits**: To jumpstart your project, you may use one of the provided starter repositories or start from scratch.
+- **Starter Kits**: To jumpstart your project, you may use one or more of the provided starter repositories or start from scratch.
   1. [Frontend Starter](https://github.com/10-3-pursuit/react-basic-starter)
   1. [Backend Starter](https://github.com/10-3-pursuit/express-server-starter-db)
 - **Team Formation**: Teams will be formed by the event panel (instructors). You'll be grouped with peers to collaborate and bring diverse ideas to life.
