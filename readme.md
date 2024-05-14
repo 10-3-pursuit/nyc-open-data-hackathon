@@ -6,14 +6,6 @@
 
 Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon! This event challenges you to unleash your creativity and technical skills to innovate solutions using the [NYC Open Data API](https://opendata.cityofnewyork.us/). Whether you're building a web app, mobile app, tool, or any other digital creation, your project should aim to solve real-world problems and have the potential to scale into a viable product or service.
 
-## Get Started
-
-- **Starter Kits**: To jumpstart your project, you may use one or more of the provided starter repositories or start from scratch.
-  1. [Frontend Starter](https://github.com/10-3-pursuit/react-basic-starter)
-  1. [Backend Starter](https://github.com/10-3-pursuit/express-server-starter-db)
-- **Team Formation**: Teams will be formed by the event panel (instructors). You'll be grouped with peers to collaborate and bring diverse ideas to life.
-- **Tools and Libraries**: Feel free to use any libraries, frameworks, or packages of your choice to develop your project.
-
 ## Requirements
 
 - **Use of [NYC Open Data API](https://opendata.cityofnewyork.us/)**: Your project must integrate the [NYC Open Data API](https://opendata.cityofnewyork.us/). Creativity in how you use this API is highly encouraged.
@@ -36,6 +28,14 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 ## Presentation
 
 - **Date and Time**: Present your project on Monday, May 20th at 12:30 PM. Make sure your presentation captures the essence and impact of your solution effectively.
+
+## Get Started
+
+- **Starter Kits**: To jumpstart your project, you may use one or more of the provided starter repositories or start from scratch.
+  1. [Frontend Starter](https://github.com/10-3-pursuit/react-basic-starter)
+  1. [Backend Starter](https://github.com/10-3-pursuit/express-server-starter-db)
+- **Team Formation**: Teams will be formed by the event panel (instructors). You'll be grouped with peers to collaborate and bring diverse ideas to life.
+- **Tools and Libraries**: Feel free to use any libraries, frameworks, or packages of your choice to develop your project.
 
 ## Resources
 
