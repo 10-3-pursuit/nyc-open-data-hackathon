@@ -15,9 +15,11 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 
 ## Prizes
 
-- **Winner Takes All**: Prizes will be awarded to the winning team, which will be determined by an independent panel of judges who will review your presentations on video. Winners will not be chosen by the hackathon instructors.
+- **Winner Takes All:** Prizes will be exclusively awarded to the winning team. Each member who fully participates will receive a $50 e-gift certificate, with the choice of Amazon, Grubhub, or DoorDash. Full participation is required for eligibility.
 
 ## Judging Criteria
+
+Winners will not be chosen by the hackathon instructors. The winning team
 
 1. **Progress**: How much was accomplished during the hackathon?
 2. **Concept**: Does the solution address a real and significant problem?
