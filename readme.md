@@ -20,6 +20,9 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 ## Judging Criteria
 
 Winners will not be chosen by the hackathon instructors. The winning team
+will be determined by a chosen panel of judges who will review the video of your presentations.
+
+Team will be judged based on:
 
 1. **Progress**: How much was accomplished during the hackathon?
 2. **Concept**: Does the solution address a real and significant problem?
