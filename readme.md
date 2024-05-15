@@ -15,7 +15,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 
 ## Prizes
 
-- **Winner Takes All:** Prizes will be exclusively awarded to the winning team. Each winning team member who fully participates will receive a $35 e-gift certificate, with the choice of Amazon, Grubhub, or DoorDash. Full participation is required for eligibility. The winning team will be announced on Tuesday May 21st.
+- **Winner Takes All:** Prizes will be exclusively awarded to the winning team. Each winning team member, who fully participates, will receive a $35 e-gift certificate, with the choice of Amazon, Grubhub, or DoorDash. Full participation is required for eligibility. The winning team will be announced on Tuesday May 21st.
 
 ## Judging Criteria
 
