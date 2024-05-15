@@ -20,7 +20,7 @@ Welcome to the [NYC Open Data API](https://opendata.cityofnewyork.us/) Hackathon
 ## Judging Criteria
 
 Winners will not be chosen by the hackathon instructors. The winning team
-will be determined by a chosen panel of judges who will review the video of your presentations.
+will be determined by a chosen panel of judges who will review a video of your presentations.
 
 Team will be judged based on:
 
@@ -32,7 +32,7 @@ Team will be judged based on:
 
 ## Presentation
 
-- **Date and Time**: Each team will give a 5 minute on Monday, May 20th. Make sure your presentation captures the essence and impact of your solution effectively.
+Each team will give a 5 minute on Monday, May 20th. Make sure your presentation captures the essence and impact of your solution effectively.
 
 ## Get Started
 
