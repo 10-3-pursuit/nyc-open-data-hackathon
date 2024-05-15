@@ -32,7 +32,7 @@ Team will be judged based on:
 
 ## Presentation
 
-Each team will give a 5 minute on Monday, May 20th. Make sure your presentation captures the essence and impact of your solution effectively.
+Each team will give a 5 minute presentation on Monday, May 20th. Make sure your presentation captures the essence and impact of your solution effectively.
 
 ## Get Started
 
