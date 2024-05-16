@@ -50,6 +50,6 @@ Each team will give a 5 minute presentation on Monday, May 20th. Make sure your 
   - [2013 Hack Day](https://open.nytimes.com/timesopen-hack-day-2013-b185d6a099f3)
   - [The Best of Newsgaming at the Editors’ Lab](https://open.nytimes.com/the-best-of-newsgaming-at-the-editors-lab-cc024ca5edd9)
   - [Schooled by Times APIs: Student Projects](https://open.nytimes.com/schooled-by-times-apis-student-projects-14fb76830d20)
-  - [Data Visualization: Pudding.cool](https://www.pudding.cool/)
+- [Data Visualization: Pudding.cool](https://www.pudding.cool/)
 
 Prepare to dive deep, innovate, and maybe even kickstart your next big venture at this thrilling hackathon!
